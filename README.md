@@ -1,20 +1,21 @@
 # Fire-classifications-AICTE(week-1)
 
-Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
+<b>Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)</b>
 
-        India witnesses various types of fire incidents annually, including forest fires, agricultural burning, volcanic activity, and other thermal anomalies. Accurate identification of fire sources is crucial for timely disaster response, environmental monitoring, and resource management. The MODIS sensors aboard NASA’s Terra and Aqua satellites provide reliable, near real-time thermal anomaly data globally, including for India.
+India witnesses various types of fire incidents annually, including forest fires, agricultural burning, volcanic activity, and other thermal anomalies. Accurate identification of fire sources is crucial for timely disaster response, environmental monitoring, and resource management. The MODIS sensors aboard NASA’s Terra and Aqua satellites provide reliable, near real-time thermal anomaly data globally, including for India.
 
-         While the MODIS dataset includes rich geospatial and thermal parameters, the challenge lies in correctly classifying the type of fire event — whether it stems from vegetation, volcanoes, static land sources, or offshore sources — using satellite-captured features.
+ While the MODIS dataset includes rich geospatial and thermal parameters, the challenge lies in correctly classifying the type of fire event — whether it stems from vegetation, volcanoes, static land sources, or offshore sources — using satellite-captured features.
 
-Objective:
+<b>Objective:</b>
 
 To develop a machine learning classification model that can accurately predict the type of fire using MODIS fire detection data for India from 2021 to 2023
 
-🔥 MODIS Dataset Summary (India: 2021–2023)
+
+<b>🔥 MODIS Dataset Summary (India: 2021–2023)</b>
 
 📌 About MODIS:
 
-             The Moderate Resolution Imaging Spectroradiometer (MODIS) is a key NASA sensor aboard the Terra (launched 1999) and Aqua (launched 2002) satellites. It captures Earth observation data at a spatial resolution of 1 km, suitable for global fire monitoring and environmental studies.
+The Moderate Resolution Imaging Spectroradiometer (MODIS) is a key NASA sensor aboard the Terra (launched 1999) and Aqua (launched 2002) satellites. It captures Earth observation data at a spatial resolution of 1 km, suitable for global fire monitoring and environmental studies.
 
 MODIS data used in this project is sourced from NASA’s FIRMS (Fire Information for Resource Management System) and focuses on thermal anomalies and active fire detection.
 
@@ -55,3 +56,14 @@ Hotspot pattern analysis in ecological studies
 🔗 MODIS Active Fire Product Info (LP DAAC)
 
 🔗 Understanding MODIS Fire Algorithm
+
+ Important Parameters in MODIS Data:
+ 
+<img width="610" height="665" alt="image" src="https://github.com/user-attachments/assets/533cac30-cb1c-4185-8551-9cc78bf8d65c" />
+
+📚 Reference Links:
+
+<a href="https://www.earthdata.nasa.gov/data/tools/firms">🔗 NASA FIRMS Documentatio </a>
+
+<a href="https://firms.modaps.eosdis.nasa.gov/download/"> 🔗 Global Fire Data Access Porta</a>
+
